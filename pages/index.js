@@ -87,8 +87,8 @@ export default function Home() {
       ></Script>
       <Script
         id='e-clients-widget'
-        src='https://widget.eclients-dev.stage3.quartsoft.com/eClients-cdn.umd.js'
-        data-access-token='12|CmeVumialJYU89Bo20suIGmCb35tblZXDuRfYvhk'
+        src='https://widget.eclients.stage3.quartsoft.com/eClients-cdn.umd.js'
+        data-access-token='20|HKj44jjozUzspjJUnqUJ8pbsqnY8jTpAzSKo4byQ'
       ></Script>
     </div>
   );
