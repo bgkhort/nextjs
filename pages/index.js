@@ -67,6 +67,7 @@ export default function Home() {
       </footer>
 
       <Script
+        id='e-clients-widget-PPPPPPP'
         dangerouslySetInnerHTML={{
           __html: `window.eclientsWidgetSettings = {
     buttonText: "",
