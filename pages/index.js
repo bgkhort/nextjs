@@ -70,25 +70,25 @@ export default function Home() {
         id='e-clients-widget-PPPPPPP'
         dangerouslySetInnerHTML={{
           __html: `window.eclientsWidgetSettings = {
-    buttonText: "",
-    buttonPosition: "bottom-right",
-    buttonAutoShow: true,
-    colors: {
-        0: "#FFD600",
-        1: "#81B2CA",
-        2: "#F4F6F6",
-        3: "#FFFFFF",
-        4: "#D9E8EF",
-        5: "#6B6B6B",
-        6: "#030303",
-    }
-}`,
+            buttonText: "",
+            buttonPosition: "bottom-right",
+            buttonAutoShow: true,
+            colors: {
+                0: "#007bff",
+                1: "#81B2CA",
+                2: "#F4F6F6",
+                3: "#FFFFFF",
+                4: "#D9E8EF",
+                5: "#6B6B6B",
+                6: "#030303",
+            }
+        }`,
         }}
       ></Script>
       <Script
         id='e-clients-widget'
-        src='https://widget.eclients-dev.stage3.quartsoft.com/eClients-cdn.umd.js'
-        data-access-token='7|ZwAgvjtIfBdCOUyrTGAxx3RZbcLn8h5zl4UufWMg'
+        src='https://widget.eclients.me/eClients-cdn.umd.js'
+        data-access-token='2|qwLwZawgjLLzHkOWY2yKaRhSL6LUHd5GNvpVFKog'
       ></Script>
     </div>
   );
